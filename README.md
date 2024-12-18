@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Irinello
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on web development
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning javascript and python
 - 📫 How to reach me: Intagram-irinello27
 
 
